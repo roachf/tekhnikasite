@@ -1,0 +1,127 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1680px;
+	 height: 1050px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1680px;
+	 height: 1050px;
+	 z-index:1;
+} 
+
+ #layer_1_0 
+{ 
+	 left: -3px; 
+	 top: 794px; 
+	 position: absolute; 
+	 width: 1684px;
+	 height: 257px;
+	 z-index:2;
+} 
+
+ #layer_19926 
+{ 
+	 left: 173px; 
+	 top: 549px; 
+	 position: absolute; 
+	 width: 440px;
+	 height: 92px;
+	 z-index:3;
+} 
+
+ #78123552992officetek 
+{ 
+	 left: 207px; 
+	 top: 691px; 
+	 position: absolute; 
+	 width: 321px;
+	 height: 73px;
+	 z-index:4;
+} 
+
+ #layer_5 
+{ 
+	 left: 171px; 
+	 top: 189px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 97px;
+	 z-index:5;
+} 
+
+ #layer_6 
+{ 
+	 left: 171px; 
+	 top: 353px; 
+	 position: absolute; 
+	 width: 598px;
+	 height: 130px;
+	 z-index:6;
+} 
+
+ #layer_7 
+{ 
+	 left: 678px; 
+	 top: 310px; 
+	 position: absolute; 
+	 width: 940px;
+	 height: 456px;
+	 z-index:7;
+} 
+
+ #layer_8 
+{ 
+	 left: 173px; 
+	 top: 874px; 
+	 position: absolute; 
+	 width: 528px;
+	 height: 48px;
+	 z-index:8;
+} 
+
+ #layer_1_1 
+{ 
+	 left: 733px; 
+	 top: 856px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 85px;
+	 z-index:9;
+} 
+
+ #layer_2 
+{ 
+	 left: 171px; 
+	 top: 741px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 18px;
+	 z-index:10;
+} 
+
+ #layer_3 
+{ 
+	 left: 174px; 
+	 top: 685px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 23px;
+	 z-index:11;
+} 
