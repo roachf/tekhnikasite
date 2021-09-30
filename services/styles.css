@@ -1,0 +1,177 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1680px;
+	 height: 1050px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1680px;
+	 height: 1050px;
+	 z-index:1;
+} 
+
+ #layer_1_0 
+{ 
+	 left: -3px; 
+	 top: 726px; 
+	 position: absolute; 
+	 width: 1684px;
+	 height: 325px;
+	 z-index:2;
+} 
+
+ #layer_7 
+{ 
+	 left: 731px; 
+	 top: 761px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 120px;
+	 z-index:3;
+} 
+
+ #layer_19926 
+{ 
+	 left: 300px; 
+	 top: 423px; 
+	 position: absolute; 
+	 width: 377px;
+	 height: 81px;
+	 z-index:4;
+} 
+
+ #78123552992officetek 
+{ 
+	 left: 349px; 
+	 top: 561px; 
+	 position: absolute; 
+	 width: 321px;
+	 height: 73px;
+	 z-index:5;
+} 
+
+ #layer_6 
+{ 
+	 left: 301px; 
+	 top: 96px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 97px;
+	 z-index:6;
+} 
+
+ #layer_7_0 
+{ 
+	 left: 300px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 479px;
+	 height: 103px;
+	 z-index:7;
+} 
+
+ #layer_8 
+{ 
+	 left: 665px; 
+	 top: 338px; 
+	 position: absolute; 
+	 width: 720px;
+	 height: 351px;
+	 z-index:8;
+} 
+
+ #layer_6_0 
+{ 
+	 left: 302px; 
+	 top: 796px; 
+	 position: absolute; 
+	 width: 374px;
+	 height: 111px;
+	 z-index:9;
+} 
+
+ #layer_1_1 
+{ 
+	 left: 590px; 
+	 top: 778px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 39px;
+	 z-index:10;
+} 
+
+ #layer_1_2 
+{ 
+	 left: 733px; 
+	 top: 856px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 85px;
+	 z-index:11;
+} 
+
+ #layer_12 
+{ 
+	 left: 612px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 15px;
+	 z-index:12;
+} 
+
+ #layer_5 
+{ 
+	 left: 706px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 16px;
+	 z-index:13;
+} 
+
+ #layer_14 
+{ 
+	 left: 303px; 
+	 top: 797px; 
+	 position: absolute; 
+	 width: 401px;
+	 height: 66px;
+	 z-index:14;
+} 
+
+ #layer_2 
+{ 
+	 left: 304px; 
+	 top: 611px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 18px;
+	 z-index:15;
+} 
+
+ #layer_3 
+{ 
+	 left: 301px; 
+	 top: 558px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 23px;
+	 z-index:16;
+} 
